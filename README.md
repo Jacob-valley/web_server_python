@@ -1,2 +1,2 @@
 # web_server_python
-Web server buld with Python FastApi
+Web server buld with Python Django
